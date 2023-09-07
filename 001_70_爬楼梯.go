@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func main() {
+func mainx() {
 	// start := time.Now() // 获取当前时间
 	// fmt.Println(climb1(50))
 	// elapsed := time.Since(start)
