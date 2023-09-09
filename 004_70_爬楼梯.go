@@ -1,31 +1,26 @@
 package main
 
-import (
-	"fmt"
-	"time"
-)
+// func main() {
+// 	// start := time.Now() // 获取当前时间
+// 	// fmt.Println(climb1(50))
+// 	// elapsed := time.Since(start)
+// 	// fmt.Println(elapsed)
 
-func mainx() {
-	// start := time.Now() // 获取当前时间
-	// fmt.Println(climb1(50))
-	// elapsed := time.Since(start)
-	// fmt.Println(elapsed)
+// 	// start := time.Now()
+// 	// fmt.Println(climb2(50))
+// 	// elapsed := time.Since(start)
+// 	// fmt.Println(elapsed)
 
-	// start := time.Now()
-	// fmt.Println(climb2(50))
-	// elapsed := time.Since(start)
-	// fmt.Println(elapsed)
+// 	// start := time.Now()
+// 	// fmt.Println(climb3(50))
+// 	// elapsed := time.Since(start)
+// 	// fmt.Println(elapsed)
 
-	// start := time.Now()
-	// fmt.Println(climb3(50))
-	// elapsed := time.Since(start)
-	// fmt.Println(elapsed)
-
-	start := time.Now()
-	fmt.Println(feb1(10))
-	elapsed := time.Since(start)
-	fmt.Println(elapsed, tempfeb)
-}
+// 	start := time.Now()
+// 	fmt.Println(feb1(10))
+// 	elapsed := time.Since(start)
+// 	fmt.Println(elapsed, tempfeb)
+// }
 
 //    6
 //  5    4

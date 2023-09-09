@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func main() {
-	// twoAdd1([]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10})
-	twoAdd2([]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, 10)
-}
+// func main() {
+// 	// twoAdd1([]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10})
+// 	twoAdd2([]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, 10)
+// }
 
 func twoAdd1(lst []int, target int) {
 	temp := map[int]int{}
