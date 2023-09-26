@@ -25,10 +25,10 @@ package main
  * }
  */
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+// type ListNode struct {
+// 	Val  int
+// 	Next *ListNode
+// }
 
 func mergeTwoLists1(list1, list2 *ListNode) *ListNode {
 	dummy := &ListNode{} // 用哨兵节点简化代码逻辑
