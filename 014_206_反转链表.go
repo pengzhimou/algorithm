@@ -22,7 +22,7 @@ func main() {
 	)
 }
 
-func reverseList1(head *ListNode) *ListNode {
+func reverseList(head *ListNode) *ListNode {
 	var prev *ListNode
 	curr := head
 	for curr != nil {
