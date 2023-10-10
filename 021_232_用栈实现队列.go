@@ -76,7 +76,7 @@ func (this *MyQueue) Empty() bool {
  * param_4 := obj.Empty();
  */
 
-func main() {
+func maiawefsadn() {
 	obj := Constructor()
 	obj.Push(1)
 	obj.Push(2)
@@ -86,6 +86,9 @@ func main() {
 	fmt.Println(param_2)
 	param_2 = obj.Pop()
 	fmt.Println(param_2)
+
+	obj.Push(5)
+	obj.Push(6)
 
 	// param_3 := obj.Peek()
 	// param_4 := obj.Empty()
