@@ -7,7 +7,7 @@ import "fmt"
 // 	Next *ListNode
 // }
 
-func main() {
+func mainf2s() {
 
 	a := &ListNode{1, &ListNode{2, &ListNode{3, &ListNode{4, &ListNode{5, nil}}}}}
 
