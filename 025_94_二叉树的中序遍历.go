@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main322() {
 	x := TreeNode{
 		Val: 1,
 		Left: &TreeNode{
