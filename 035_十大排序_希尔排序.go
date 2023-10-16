@@ -20,7 +20,7 @@ func ShellSort(arr []int) {
 	fmt.Println(arr)
 }
 
-func main() {
+func maiwefn() {
 	// aa := []int{5, 4, 3, 2, 1}
 	aa := []int{5, 4, 1, 2, 3}
 	InsertionSort1(aa)
