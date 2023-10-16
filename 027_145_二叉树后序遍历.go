@@ -8,7 +8,7 @@ type TreeNode3 struct {
 	Right *TreeNode3
 }
 
-func main() {
+func main123ss() {
 	x := TreeNode3{
 		Val: 1,
 		Left: &TreeNode3{
